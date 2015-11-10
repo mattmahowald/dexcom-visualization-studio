@@ -1,7 +1,6 @@
-
 """
-
-
+DexcomGUI.py
+------------
 author: Matt Mahowald
 last modified: November 2015
 website: https://github.com/mattmahowald/dexcom-vizualization-studio
